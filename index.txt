@@ -1,4 +1,4 @@
-$nationals = array(
+array(
 
     'Afghan',
 
